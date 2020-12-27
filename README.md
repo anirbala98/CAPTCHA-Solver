@@ -8,6 +8,7 @@ This is a Text-based CAPTCHA solver designed using CNN and LSTM. This applicatio
 Dataset links:
 Noisy Arc CAPTCHA dataset : https://www.kaggle.com/fournierp/captcha-version-2-images
 </p>
+
 # Screenshots
 
 
