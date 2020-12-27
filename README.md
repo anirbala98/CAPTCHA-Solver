@@ -13,4 +13,5 @@ Noisy Arc CAPTCHA dataset : https://www.kaggle.com/fournierp/captcha-version-2-i
 
 ## Screenshots
 ![2QHA ans](https://user-images.githubusercontent.com/26120836/103171002-a15bdd80-4883-11eb-858b-76499d70ca03.jpg)
+![3nb24 ans](https://user-images.githubusercontent.com/26120836/103171080-3a8af400-4884-11eb-9262-96e873d05cc9.jpg)
 
